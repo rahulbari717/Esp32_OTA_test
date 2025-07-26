@@ -1,0 +1,2 @@
+source /home/lenovo/Documents/Linux/Esp32_OTA_test/build/bootloader/gdbinit/symbols
+source /home/lenovo/Documents/Linux/Esp32_OTA_test/build/bootloader/gdbinit/connect
